@@ -4,3 +4,6 @@ and behavioral analysis. The app uses various techniques to gather data that can
 questions related to the patient's behavior, communication, and social interaction. These questions are based on standardized screening questionnaires that are 
 commonly used by healthcare professionals to assess the risk of ASD. The patient can answer these questions by selecting their responses.
 The app also uses advanced machine learning algorithms to predict whether patient is suffering from autism or not.
+
+
+Download in Phone for better expirence 😂
